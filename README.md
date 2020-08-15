@@ -7,4 +7,4 @@ Word Cloud is a data visualization technique used for representing text data in 
 3. Wordcloud
 
 
-![Image]( "Birthday")
+![Image](https://github.com/DivyaMunot/Word-Cloud-python/blob/master/gayu_bday.png "Birthday")

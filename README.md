@@ -8,8 +8,8 @@ Word Cloud is a data visualization technique used for representing text data in 
 
 ## Output of the code
 
-![Image](https://github.com/DivyaMunot/Word-Cloud-python/blob/master/gayu_bday.png "Birthday")
+![Image](gayu_bday.png "Birthday")
 
 ### Find the source code here
 
-[Source Code]()
+[Source Code](wordcloud_project.py)
